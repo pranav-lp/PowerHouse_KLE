@@ -1,0 +1,92 @@
+[
+  {
+    "trial_id": "01_Healthy_Athlete",
+    "age": 28, "sex": 1, "bmi": 22.5, "education": 5,
+    "cp": 0, "trestbps": 115, "chol": 170, "fbs": 0, "restecg": 0, "thalach": 185, "exang": 0, "oldpeak": 0.0, "slope": 2, "ca": 0, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 0, "duration": 0, "years_quit": 0,
+    "ast": 18, "alt": 20, "platelets": 300, "glucose": 82, "triglycerides": 90, "hdl": 65,
+    "total_sleep_minutes": 480, "time_in_bed_minutes": 510, "deep_sleep_pct": 22, "rem_sleep_pct": 25, "latency_minutes": 10, "consistency_variance": 0.2,
+    "phq9_score": 1, "late_night_activity": 0.1, "social_interaction_index": 0.9, "negative_sentiment_score": 0.05
+  },
+  {
+    "trial_id": "02_High_Heart_Risk",
+    "age": 65, "sex": 1, "bmi": 31.2, "education": 3,
+    "cp": 3, "trestbps": 160, "chol": 280, "fbs": 1, "restecg": 2, "thalach": 120, "exang": 1, "oldpeak": 2.5, "slope": 0, "ca": 2, "thal": 3,
+    "copd": 0, "family_hx": 1, "is_smoker": 0, "duration": 0, "years_quit": 0,
+    "ast": 35, "alt": 40, "platelets": 210, "glucose": 110, "triglycerides": 210, "hdl": 35,
+    "total_sleep_minutes": 360, "time_in_bed_minutes": 420, "deep_sleep_pct": 12, "rem_sleep_pct": 15, "latency_minutes": 30, "consistency_variance": 0.8,
+    "phq9_score": 8, "late_night_activity": 0.4, "social_interaction_index": 0.6, "negative_sentiment_score": 0.3
+  },
+  {
+    "trial_id": "03_Heavy_Smoker_Lung_Risk",
+    "age": 58, "sex": 0, "bmi": 24.0, "education": 2,
+    "cp": 1, "trestbps": 130, "chol": 210, "fbs": 0, "restecg": 1, "thalach": 145, "exang": 0, "oldpeak": 0.8, "slope": 1, "ca": 0, "thal": 2,
+    "copd": 1, "family_hx": 1, "is_smoker": 1, "duration": 35, "years_quit": 0,
+    "ast": 25, "alt": 25, "platelets": 240, "glucose": 95, "triglycerides": 150, "hdl": 50,
+    "total_sleep_minutes": 400, "time_in_bed_minutes": 450, "deep_sleep_pct": 18, "rem_sleep_pct": 20, "latency_minutes": 20, "consistency_variance": 0.4,
+    "phq9_score": 5, "late_night_activity": 0.2, "social_interaction_index": 0.7, "negative_sentiment_score": 0.2
+  },
+  {
+    "trial_id": "04_Metabolic_Syndrome",
+    "age": 42, "sex": 1, "bmi": 34.5, "education": 4,
+    "cp": 0, "trestbps": 145, "chol": 245, "fbs": 1, "restecg": 1, "thalach": 138, "exang": 1, "oldpeak": 1.2, "slope": 1, "ca": 0, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 0, "duration": 0, "years_quit": 0,
+    "ast": 45, "alt": 55, "platelets": 180, "glucose": 135, "triglycerides": 350, "hdl": 28,
+    "total_sleep_minutes": 320, "time_in_bed_minutes": 480, "deep_sleep_pct": 8, "rem_sleep_pct": 12, "latency_minutes": 45, "consistency_variance": 1.2,
+    "phq9_score": 12, "late_night_activity": 0.6, "social_interaction_index": 0.4, "negative_sentiment_score": 0.5
+  },
+  {
+    "trial_id": "05_Liver_Fibrosis_Suspect",
+    "age": 52, "sex": 1, "bmi": 27.5, "education": 3,
+    "cp": 0, "trestbps": 135, "chol": 200, "fbs": 0, "restecg": 0, "thalach": 150, "exang": 0, "oldpeak": 0.5, "slope": 1, "ca": 0, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 0, "duration": 0, "years_quit": 0,
+    "ast": 110, "alt": 95, "platelets": 120, "glucose": 105, "triglycerides": 180, "hdl": 42,
+    "total_sleep_minutes": 420, "time_in_bed_minutes": 480, "deep_sleep_pct": 15, "rem_sleep_pct": 18, "latency_minutes": 15, "consistency_variance": 0.3,
+    "phq9_score": 3, "late_night_activity": 0.2, "social_interaction_index": 0.8, "negative_sentiment_score": 0.1
+  },
+  {
+    "trial_id": "06_Insomniac_Crisis",
+    "age": 35, "sex": 0, "bmi": 21.0, "education": 5,
+    "cp": 0, "trestbps": 110, "chol": 185, "fbs": 0, "restecg": 0, "thalach": 170, "exang": 0, "oldpeak": 0.0, "slope": 2, "ca": 0, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 0, "duration": 0, "years_quit": 0,
+    "ast": 20, "alt": 20, "platelets": 280, "glucose": 88, "triglycerides": 110, "hdl": 58,
+    "total_sleep_minutes": 240, "time_in_bed_minutes": 480, "deep_sleep_pct": 5, "rem_sleep_pct": 10, "latency_minutes": 120, "consistency_variance": 2.5,
+    "phq9_score": 18, "late_night_activity": 0.9, "social_interaction_index": 0.2, "negative_sentiment_score": 0.8
+  },
+  {
+    "trial_id": "07_Elderly_Stable",
+    "age": 78, "sex": 0, "bmi": 25.5, "education": 4,
+    "cp": 1, "trestbps": 138, "chol": 195, "fbs": 0, "restecg": 1, "thalach": 115, "exang": 0, "oldpeak": 1.0, "slope": 1, "ca": 1, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 0, "duration": 0, "years_quit": 20,
+    "ast": 24, "alt": 22, "platelets": 190, "glucose": 98, "triglycerides": 130, "hdl": 52,
+    "total_sleep_minutes": 380, "time_in_bed_minutes": 440, "deep_sleep_pct": 10, "rem_sleep_pct": 20, "latency_minutes": 25, "consistency_variance": 0.4,
+    "phq9_score": 2, "late_night_activity": 0.1, "social_interaction_index": 0.9, "negative_sentiment_score": 0.1
+  },
+  {
+    "trial_id": "08_Alcoholic_Liver_Risk",
+    "age": 48, "sex": 1, "bmi": 28.0, "education": 3,
+    "cp": 0, "trestbps": 140, "chol": 220, "fbs": 0, "restecg": 1, "thalach": 140, "exang": 0, "oldpeak": 0.2, "slope": 1, "ca": 0, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 1, "duration": 15, "years_quit": 0,
+    "ast": 150, "alt": 70, "platelets": 95, "glucose": 115, "triglycerides": 280, "hdl": 30,
+    "total_sleep_minutes": 300, "time_in_bed_minutes": 420, "deep_sleep_pct": 5, "rem_sleep_pct": 15, "latency_minutes": 40, "consistency_variance": 1.5,
+    "phq9_score": 10, "late_night_activity": 0.7, "social_interaction_index": 0.3, "negative_sentiment_score": 0.6
+  },
+  {
+    "trial_id": "09_Ex_Smoker_Improving",
+    "age": 50, "sex": 0, "bmi": 23.5, "education": 5,
+    "cp": 0, "trestbps": 120, "chol": 190, "fbs": 0, "restecg": 0, "thalach": 160, "exang": 0, "oldpeak": 0.0, "slope": 2, "ca": 0, "thal": 2,
+    "copd": 0, "family_hx": 0, "is_smoker": 0, "duration": 20, "years_quit": 10,
+    "ast": 22, "alt": 24, "platelets": 260, "glucose": 90, "triglycerides": 110, "hdl": 60,
+    "total_sleep_minutes": 450, "time_in_bed_minutes": 480, "deep_sleep_pct": 20, "rem_sleep_pct": 22, "latency_minutes": 10, "consistency_variance": 0.2,
+    "phq9_score": 2, "late_night_activity": 0.1, "social_interaction_index": 0.9, "negative_sentiment_score": 0.05
+  },
+  {
+    "trial_id": "10_Critical_Mixed_Risk",
+    "age": 60, "sex": 1, "bmi": 38.0, "education": 1,
+    "cp": 3, "trestbps": 180, "chol": 320, "fbs": 1, "restecg": 2, "thalach": 105, "exang": 1, "oldpeak": 3.5, "slope": 0, "ca": 3, "thal": 3,
+    "copd": 1, "family_hx": 1, "is_smoker": 1, "duration": 40, "years_quit": 0,
+    "ast": 90, "alt": 85, "platelets": 110, "glucose": 160, "triglycerides": 400, "hdl": 25,
+    "total_sleep_minutes": 240, "time_in_bed_minutes": 500, "deep_sleep_pct": 2, "rem_sleep_pct": 8, "latency_minutes": 90, "consistency_variance": 2.8,
+    "phq9_score": 22, "late_night_activity": 0.8, "social_interaction_index": 0.1, "negative_sentiment_score": 0.9
+  }
+]
